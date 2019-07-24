@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box; 
+}
+
+.submit-container {
+    border: 1px groove lightgrey; 
+}
+
+.submit-header {
+    font-weight: bold; 
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 2%;
+    font-family: ‘Roboto’, sans-serif;
+ }
